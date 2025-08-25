@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align='center'>
- Nice to meet you! 👋
+ Nice to meet you!
 </h1>
 
 <p align='center'>
@@ -33,7 +33,7 @@ I'm a software developer from Virginia. My main focus is on iOS development with
 </p>
 
 <details>
-<summary>📱 SwiftUI Portfolio</summary>
+<summary>Portfolio</summary>
 <br>
 
 # [SocialNet](https://github.com/CorwinR-VA/SocialNet)
